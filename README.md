@@ -1,7 +1,7 @@
 webscraper
 ==========
 
-This is application for test task. Used JDK 1.8. Application  accepts as command line parameters:
+This is application for test task. Used JDK 1.8 and jsoup html-parser. Application  accepts as command line parameters:
 - resources URL or path to plain text file containing a list of URLs
 - data command(s)
 - word (or list of words with “,” delimiter)
